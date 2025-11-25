@@ -17,7 +17,7 @@ const VideosPage: React.FC = () => {
   const [error, setError] = useState<string>("");
 
   // Note: Ensure you have added REACT_APP_YOUTUBE_API_KEY in your .env file
-  const API_KEY = 'AIzaSyCrqUveGc27mfCXBy8zGU0Lp9hapD4o-bM';
+  const API_KEY = "API_KEY";
 
   const fetchVideos = async () => {
     setLoading(true);
