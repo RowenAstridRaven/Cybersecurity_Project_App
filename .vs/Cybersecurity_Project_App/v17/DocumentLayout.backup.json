@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anast\\source\\repos\\Cybersecurity_Project_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2BE9FA-5C81-7FDF-38B0-F86ED1232FE0}|Cybersecurity_Project_App\\cybersecurity_project_app.esproj|c:\\users\\anast\\source\\repos\\cybersecurity_project_app\\cybersecurity_project_app\\src\\components\\listgroup.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5F2BE9FA-5C81-7FDF-38B0-F86ED1232FE0}|Cybersecurity_Project_App\\cybersecurity_project_app.esproj|solutionrelative:cybersecurity_project_app\\src\\components\\listgroup.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2BE9FA-5C81-7FDF-38B0-F86ED1232FE0}|Cybersecurity_Project_App\\cybersecurity_project_app.esproj|c:\\users\\anast\\source\\repos\\cybersecurity_project_app\\cybersecurity_project_app\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5F2BE9FA-5C81-7FDF-38B0-F86ED1232FE0}|Cybersecurity_Project_App\\cybersecurity_project_app.esproj|solutionrelative:cybersecurity_project_app\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 251,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\Cybersecurity_Project_App\\cybersecurity_project_app\\src\\App.tsx",
+              "RelativeDocumentMoniker": "cybersecurity_project_app\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\Cybersecurity_Project_App\\cybersecurity_project_app\\src\\App.tsx",
+              "RelativeToolTip": "cybersecurity_project_app\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-02T19:43:10.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListGroup.tsx",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\Cybersecurity_Project_App\\cybersecurity_project_app\\src\\components\\ListGroup.tsx",
+              "RelativeDocumentMoniker": "cybersecurity_project_app\\src\\components\\ListGroup.tsx",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\Cybersecurity_Project_App\\cybersecurity_project_app\\src\\components\\ListGroup.tsx",
+              "RelativeToolTip": "cybersecurity_project_app\\src\\components\\ListGroup.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-02T19:30:04.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

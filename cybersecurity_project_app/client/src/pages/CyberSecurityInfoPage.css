@@ -1,0 +1,31 @@
+/* client/src/pages/CyberSecurityInfoPage.css */
+.cybersecurity-info-container {
+  padding: 20px;
+  text-align: center;
+  background-color: #b4cbe0;
+  min-height: 100vh;
+}
+
+.topics-buttons {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 15px;
+  width:100%;
+  margin-top: 20px;
+}
+
+.topic-button {
+  padding: 30px 30px;
+  font-size: x-large;
+  font-weight: 500;
+  background-color: #b4965b;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 100px;
+  transition: background-color 0.3s ease;
+}
+
+.topic-button:hover {
+  background-color: #ffffff;
+  color: #b4965b;
+}

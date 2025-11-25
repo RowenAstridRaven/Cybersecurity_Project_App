@@ -1,0 +1,68 @@
+/* client/src/pages/HomePage.css */
+.homepage-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 20px;
+  min-height: 100vh;
+  background: #b4cbe0;
+}
+  
+  .homepage-header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .homepage-header h1 {
+    font-size: 2.5rem;
+    color: #000000;
+  }
+  
+  .homepage-header p {
+    font-size: 1.2rem;
+    color: #666;
+  }
+
+  .homepage-dev-email{
+    margin-top: 35px;
+  }
+  
+.buttons-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+  gap: 15px;
+  width: 100%;
+  max-width: 800px;
+}
+  
+  .button {
+    width:300px;
+    height:90px;
+    color: #fff;
+    background-color: #b4965b;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+    /* Hide the text by default */
+    .button .hover-text {
+      display: none;
+    }
+
+    /* On hover, hide the image */
+    .button:hover .default-icon {
+      display: none;
+    }
+
+    /* On hover, show the text */
+    .button:hover .hover-text {
+      display: inline; /* or block, depending on your design */
+      font-size: 30px; /* Adjust styling as needed */
+      color: #fff;     /* Adjust text color as needed */
+    }
+
+.default-icon{
+  width:90px;
+}

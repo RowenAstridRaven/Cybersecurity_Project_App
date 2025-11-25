@@ -1,0 +1,74 @@
+/* client/src/pages/VideosPage.css */ 
+.videos-page-container { 
+padding: 20px;
+text-align: center;
+background: #b4cbe0;
+margin-bottom: 50px;
+min-height: calc(100vh - 50px);
+}
+
+.video-search-form { 
+margin-bottom: 20px;
+display: flex;
+justify-content: center;
+gap: 10px;
+}
+
+.video-search-input { 
+padding: 10px;
+width: 300px;
+border: 1px solid #ccc;
+border-radius: 4px;
+font-size: 1rem;
+}
+
+.video-search-button { 
+padding: 10px 20px;
+color: #fff;
+background-color: #b4965b;
+border: none;
+border-radius: 4px;
+font-size: 1rem;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+
+.video-search-button:hover { 
+background-color: #ffffff;
+color: #b4965b;
+}
+
+.error { 
+color: red;
+}
+
+.video-player { 
+margin: 20px auto;
+width: 560px;
+height: 315px;
+}
+
+.videos-list { 
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 10px;
+margin-top: 20px;
+}
+
+.video-item { 
+width: 100px;
+cursor: pointer;
+text-align: center;
+}
+
+.video-item img { 
+width: 100%;
+border-radius: 4px;
+}
+
+.video-item p { 
+font-size: 0.9rem;
+margin: 5px 0 0 0;
+}
+

@@ -1,0 +1,36 @@
+/* client/src/components/NavigationBar.css */
+
+.navbar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  font-size: 23px;
+  height:15%;
+  background-color: #dfc5c5;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 -2px 5px rgba(249, 221, 221, 0.2);
+  z-index: 1000;
+}
+
+/* The active class is applied by NavLink if the route matches the current URL */
+/* These all change how big the icon is when active or inacive and if hovering over the app*/
+.nav-icon-active{
+  width:70px;
+}
+
+.nav-icon-inactive{
+  width: 50px;
+}
+
+.nav-icon-inactive:hover {
+  width: 70px;
+}
+
+.separator {
+  color: #666;
+  margin: 0 20px;
+}
